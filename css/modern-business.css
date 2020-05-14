@@ -1,0 +1,117 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: white;
+} 
+
+.navbar{
+	background-color: #800020;
+	font-family: 'Dosis', sans-serif;
+}
+
+.navbar-brand:hover{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+}
+
+.navbar-brand{
+	letter-spacing: 2.5px;
+}
+
+a{
+	color: white;
+}
+
+.carousel-caption{
+	color: black;
+}
+
+footer{
+	background-color: #800020;
+	font-family: 'Dosis', sans-serif;
+}
+
+.heading{
+	color: #800020;
+	font-family: 'Dosis', sans-serif;
+}
+
+.card-header{
+	/*background-color: rgba(128, 0, 32, 0.65);*/
+	background-color: rgb(128, 0, 32);
+	color: yellow;
+}
+
+.card-footer{
+	/*background-color: rgba(128, 0, 32, 0.65);*/
+	background-color: rgb(128, 0, 32);
+	color: yellow;
+}
+
+.card{
+	border-style: none;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
+}
+
+.nav-link{
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav-link:hover{
+	background-color: white;
+	color: rgb(128, 0, 32);
+	font-weight: 1000;
+}
+
+.lmore{
+	color: yellow;
+	font-weight: 400;
+}
+
+.lmore:hover{
+	color: white;
+	font-weight: bold;
+}
