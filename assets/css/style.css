@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
   color: #5a656e;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", serif;
+  font-family: 'Lato', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -642,7 +642,7 @@ section {
 }
 
 .services .description {
-  font-size: 15px;
+  font-size: 20px;
   line-height: 24px;
   margin-bottom: 0;
 }
